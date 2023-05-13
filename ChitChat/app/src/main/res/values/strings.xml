@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="remotestring">Hi I am a bot!</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type Message</string>
+    <string name="hassan_haider">Hassan Haider</string>
+    <string name="todo">TODO</string>
+    <string name="date">Date</string>
+    <string name="remote_bot">Remote Bot</string>
+</resources>

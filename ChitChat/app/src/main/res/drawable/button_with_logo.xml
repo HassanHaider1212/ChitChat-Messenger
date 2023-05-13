@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Login logo drawable -->
+    <item
+        android:drawable="@drawable/ic_login"
+        android:gravity="center_vertical|start"
+        android:left="16dp"
+        android:top="8dp"
+        android:bottom="8dp" />
+
+    <!-- Button background drawable -->
+    <item
+        android:drawable="@drawable/ic_login"
+        android:gravity="center" />
+
+</layer-list>

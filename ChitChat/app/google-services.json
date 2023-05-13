@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143504351867",
+    "project_id": "chitchat-698fe",
+    "storage_bucket": "chitchat-698fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143504351867:android:86eb0e47c62dbce788b8de",
+        "android_client_info": {
+          "package_name": "com.example.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143504351867-s2qesdm1i34ap6c73dskl9hsvd916uhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tQpHF3PfdqOkgWNsZninVvzYsRdmfH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143504351867-s2qesdm1i34ap6c73dskl9hsvd916uhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
